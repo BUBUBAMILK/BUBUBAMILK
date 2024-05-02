@@ -88,7 +88,7 @@ h3:hover {
 }
 
 .boba img {
-  max-width: 50%;
+  max-width: 30%;
   height: auto;
   border-radius: 25px;
   border: solid 5px #f1b657;
@@ -187,6 +187,6 @@ a {
 
 @media screen and (min-width: 768px) { 
   .maps img {
-    max-width: 30%;
+    max-width: 20%;
   }
 }
